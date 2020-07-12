@@ -4,6 +4,9 @@
 2. A cloud instance with GPU(CUDA support).[In any cloud platform or your own laptop/PC]
    > NOTE:- The GPU instance should have CUDA support
 
+---
+### What basically supervisley do???
+    Supervisely is a powerful platform for computer vision development, where individual researchers and large teams can annotate and experiment with datasets and neural networks.It helps both for both expertise and novice to build the neural network model with better accuracy!!!
 
 ---
 ## Things to do in supervisely
@@ -36,4 +39,6 @@ Cool,,now u can test your model!!!
 
 
 ### Result of the above trained model!!
+![](images/12.png)
+![](images/13.png)
 
