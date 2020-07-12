@@ -25,10 +25,15 @@ Scroll down u can find the weight of Maked-RCNN click on that and press clone to
 
 ![](images/5.png)
 
-6. Before we train,we need to provide resources for training.Go to cluster and press "add" button it will provide with the details of minimum requirements of the system to train model.Cross check the minium requirements in the system and copy the link and paste it in your linux terminal.Good to go...
+6. Before we train,we need to provide resources for training.Go to cluster and press "add" button it will provide with the details of minimum requirements of the system to train model.Cross check the minium requirements in the system and copy the link and paste it in your linux terminal.Then the agent wil be ready for training!!
 
 ![](images/7.png)
 
 7. click on neural network,over there you will find the Maked rcnn model which u have cloned before.Click on train and then provide the dataset(which u have done segment and train/val tagging) and give a name to your model and click run.
 It takes some time based on your system and when the training is over the model will be saved with name you have give while training!!!
 Cool,,now u can test your model!!!
+
+
+
+### Result of the above trained model!!
+
