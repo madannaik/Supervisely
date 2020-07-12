@@ -35,6 +35,7 @@ Scroll down u can find the weight of Maked-RCNN click on that and press clone to
 7. click on neural network,over there you will find the Maked rcnn model which u have cloned before.Click on train and then provide the dataset(which u have done segment and train/val tagging) and give a name to your model and click run.
 It takes some time based on your system and when the training is over the model will be saved with name you have give while training!!!
 Cool,,now u can test your model!!!
+![](images/11.png)
 
 
 
