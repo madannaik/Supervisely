@@ -1,4 +1,4 @@
-### This repo holds the demonstartion of how to use supervisley to implement a Deep learning model with no code!!!(object detection using masked-Rcnn)
+### This repo holds the demonstartion of how to use supervisley to implement a Deep learning model with no code!!!(object detection using mask-Rcnn)
 #### Pre-requisites 
 1. An account in supervisley.[click here to sign up](https://app.supervise.ly/signup)
 2. A cloud instance with GPU(CUDA support).[In any cloud platform or your own laptop/PC]
@@ -24,7 +24,7 @@ Supervisely is a powerful platform for computer vision development, where indivi
 
 
 5. Now go to Explore->Models there you can find the pre trained models with their weight(U can choose any weight of your choice but the example over here is about Masked-RCNN).
-Scroll down u can find the weight of Maked-RCNN click on that and press clone to add it to your workspace!!
+Scroll down u can find the weight of Mask-RCNN click on that and press clone to add it to your workspace!!
 
 ![](images/5.png)
 
